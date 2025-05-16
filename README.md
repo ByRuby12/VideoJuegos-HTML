@@ -8,40 +8,40 @@ Cada juego representa una práctica de lógica, interacción visual o diseño we
 
 ## 🎮 Lista de Mini-Juegos
 
-Cada carpeta contiene un juego independiente. Haz clic para jugar:
+Cada juego está disponible para jugar online en GitHub Pages, y puedes acceder directamente haciendo clic en su nombre:
 
-- 💣 [Busca Minas](Mini-Juegos/Busca%20Minas/index.html)  
-  Versión web del clásico Buscaminas.
+- 💣 [Busca Minas](https://byruby12.github.io/Mini-Juegos/Busca-Minas/index.html)  
+  Versión web del clásico Buscaminas, con lógica de detección de bombas y casillas.
 
-- 🎨 [Coloron-game](Mini-Juegos/Coloron-game/index.html)  
-  Juego de colores con reacción rápida.
+- 🎨 [Coloron-game](https://byruby12.github.io/Mini-Juegos/Coloron-game/index.html)  
+  Juego de colores con mecánica visual y reacción rápida.
 
-- 🧠 [Copycat](Mini-Juegos/Copycat/index.html)  
-  Juego de memoria tipo “Simon Dice”.
+- 🧠 [Copycat](https://byruby12.github.io/Mini-Juegos/Copycat/index.html)  
+  Juego de memoria que desafía al jugador a repetir secuencias de colores o sonidos.
 
-- 🦖 [Dinosaurio](Mini-Juegos/Dinosaurio/index.html)  
-  Versión web del dino runner.
+- 🦖 [Dinosaurio](https://byruby12.github.io/Mini-Juegos/Dinosaurio/index.html)  
+  Inspirado en el juego offline de Google Chrome, esquiva obstáculos con un pequeño dino.
 
-- 👹 [Fearsome](Mini-Juegos/Fearsome/index.html)  
-  Juego visual con estética oscura.
+- 👹 [Fearsome](https://byruby12.github.io/Mini-Juegos/Fearsome/index.html)  
+  Juego con estética oscura, posiblemente de reacción o evasión de enemigos.
 
-- 🐤 [Flappy Dino](Mini-Juegos/Flappy%20Dino/index.html)  
-  Flappy Bird con un dino.
+- 🐤 [Flappy Dino](https://byruby12.github.io/Mini-Juegos/Flappy-Dino/index.html)  
+  Versión de Flappy Bird con un dinosaurio como protagonista, usando colisiones y gravedad.
 
-- 👻 [Pacman](Mini-Juegos/Pacman/index.html)  
-  Clásico laberinto de fantasmas.
+- 👻 [Pacman](https://byruby12.github.io/Mini-Juegos/Pacman/index.html)  
+  Recreación HTML del arcade clásico, con sistema de laberinto y enemigos.
 
-- 🏓 [PinPong](Mini-Juegos/PinPong/index.html)  
-  Ping Pong para uno o dos jugadores.
+- 🏓 [PinPong](https://byruby12.github.io/Mini-Juegos/PinPong/index.html)  
+  Juego de ping pong para uno o dos jugadores. Física simple y controles por teclado.
 
-- 🧱 [Tetris](Mini-Juegos/Tetris/index.html)  
-  Versión web del clásico de bloques.
+- 🧱 [Tetris](https://byruby12.github.io/Mini-Juegos/Tetris/index.html)  
+  Implementación del clásico de bloques, jugable con controles de rotación y caída.
 
-- 🗼 [Tower Blocks](Mini-Juegos/Tower%20blocks/index.html)  
-  Juego de apilar bloques.
+- 🗼 [Tower Blocks](https://byruby12.github.io/Mini-Juegos/Tower-blocks/index.html)  
+  Juego de apilar bloques con precisión, con física basada en timing.
 
-- 🌀 [p0rtal](Mini-Juegos/p0rtal/index.html)  
-  Juego de portales y puzzles visuales.
+- 🌀 [p0rtal](https://byruby12.github.io/Mini-Juegos/p0rtal/index.html)  
+  Juego inspirado en la mecánica de portales, puzzles visuales y teletransportación.
 
 ---
 
@@ -52,9 +52,9 @@ Cada carpeta incluye:
 - index.html – Página principal del juego  
 - style.css – Estilos visuales  
 - script.js – Lógica del juego  
-- /assets (opcional) – Imágenes, sonidos o recursos
+- /assets (opcional) – Imágenes, sonidos o recursos del juego  
 
-Puedes abrir cada juego desde tu navegador accediendo a su carpeta y ejecutando el archivo index.html.
+Puedes abrir cada juego simplemente desde un navegador web moderno, haciendo doble clic en su archivo index.html o usar los enlaces arriba para jugar online.
 
 ---
 
@@ -65,21 +65,23 @@ Con estos juegos he puesto en práctica conceptos como:
 - DOM y eventos de teclado o ratón  
 - Animaciones con JavaScript y CSS  
 - Detección de colisiones  
-- Puntuación y estados de juego  
-- Diseño responsivo y atractivo  
-- Flujo completo de un videojuego en navegador
+- Lógica de puntuación y estados de juego  
+- Diseño visual responsivo  
+- Control del flujo del juego y estados (inicio, pausa, derrota…)  
 
 ---
 
-## 🚀 Objetivo del Repositorio
+## 🚀 Objetivo del repositorio
 
-- Compartir mis mini-juegos en HTML  
-- Mejorar mis habilidades web creando juegos  
-- Mantener una galería de mis experimentos creativos
+- Compartir mis mini-juegos en HTML con otros/as desarrolladores/as  
+- Seguir aprendiendo mecánicas nuevas de juego  
+- Mantener una colección de mis proyectos creativos en la web  
 
 ---
 
 ## ✉️ Contacto
+
+¿Te interesa jugar, ver el código o colaborar en futuros juegos?
 
 📧 byruby12.contacto@gmail.com  
 🌐 https://comunidad-byruby12.jimdosite.com  
@@ -88,4 +90,4 @@ Con estos juegos he puesto en práctica conceptos como:
 
 ---
 
-¡Gracias por jugar y apoyar este rincón de creatividad web! 🎮🌐
+Gracias por jugar y apoyar este rincón de creatividad web 🎮💻
